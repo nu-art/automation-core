@@ -27,6 +27,7 @@ public enum Comparator {
 	EqualsOrGreaterThan,
 	GreaterThan,
 	Matches,
-	Contains,;
+	Contains,
+	;
 
 }

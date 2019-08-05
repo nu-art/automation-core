@@ -27,6 +27,7 @@ public enum GetWebElementBy {
 	Name,
 	TagName,
 	TextContent,
-	XPath,;
+	XPath,
+	;
 
 }

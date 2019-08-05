@@ -27,21 +27,38 @@ package com.nu.art.automation.consts;
 public interface StepTypes {
 
 	String Type_Scenario = "Scenario";
+
 	String Type_Crash = "Crash";
+
 	String Type_HardButtonPressed = "HardButtonPressed";
+
 	String Type_OnKey = "OnKey";
+
 	String Type_StartActivity = "Type_StartActivity";
+
 	String Type_OnString = "OnString";
+
 	String Type_PrintLog = "PrintLog";
+
 	String Type_TextValidator = "TextValidator";
+
 	String Type_ClearEditText = "ClearEditText";
+
 	String Type_ClickOnRecyclerItem = "ClickOnRecyclerItem";
+
 	String Type_OnItemSelected = "OnItemSelected";
+
 	String Type_OnSeekBarChanged = "OnSeekBarChanged";
+
 	String Type_ClickOnListItem = "ClickOnListItem";
+
 	String Type_ClickOnView = "ClickOnView";
+
 	String Type_TypeIntoEditText = "TypeIntoEditText";
+
 	String Type_SelectInEditText = "SelectInEditText";
+
 	String Type_WaitForView = "WaitForView";
+
 	String Type_WaitForWebElement = "WaitForWebElement";
 }
